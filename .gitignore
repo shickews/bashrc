@@ -1,8 +1,5 @@
-# IDEs
-.vscode/
-.idea/
-*.swp
-
-# OS
-.DS_Store
-Thumbs.db
+# Ignore bash history
+.history
+# Ignore temporary files
+*.tmp
+*.bak
