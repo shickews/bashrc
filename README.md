@@ -20,5 +20,6 @@ source path/to/your/bashrc
 ```
 
 ## Future Plans
-- Add more configuration options
-- Support for various shell environments.
+- Improve documentation
+- Enhance error handling
+- Add example scripts
